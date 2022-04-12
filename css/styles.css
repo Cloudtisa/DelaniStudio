@@ -1,0 +1,7 @@
+header {
+    background-image: url('../assets/backgrounds/h_img.jpg');
+    text-align: center;
+    background-size: 100% 100%;
+    color: white;
+    background-image: min-height: 300px;
+}

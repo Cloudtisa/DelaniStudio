@@ -6,7 +6,7 @@ Delani Studio - AMAZING PEOPLE ARE MAKING AMAZING DESIGNS IN A FUN ENVIROMENT :)
 All aspects of our software development process are intergrated, interactive  and agile.Our approach unifies design, development and product management to create exceptional products.
 We start each project by understanding your business goals, the user's needs and the product requirements. Then we help transalte them into effective and elegant solutions.
 
-Link to the Live site 
+Link to the Live site https://cloudtisa.github.io/DelaniStudio
 
 
 # Setup Instructions and Installation 

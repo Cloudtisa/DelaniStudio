@@ -24,3 +24,15 @@ header {
         transform: translateY(-45px);
     }
 }
+
+legend {
+    text-align: center;
+}
+
+fieldset p {
+    text-align: center;
+}
+
+p1 {
+    text-align: center;
+}

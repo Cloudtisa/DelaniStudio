@@ -100,3 +100,73 @@ h3 {
 h4 {
     text-align: center;
 }
+
+.message {
+    padding: 3px 15px;
+    margin: 7px 2px;
+    width: 700px;
+    max-width: 89%;
+    color: lime;
+    position: relative;
+}
+
+form {
+    width: 700px;
+    max-width: 90%;
+    display: inline-block;
+}
+
+::placeholder {
+    color: rgb(204, 204, 204);
+}
+
+form input {
+    width: 49%;
+}
+
+form input, form textarea {
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    transition: all 0.2s ease;
+    padding: 7px;
+}
+
+form textarea {
+    margin-top: 20px;
+    width: 98.8%;
+}
+
+form input:focus, textarea:focus {
+    background: rgba(0, 0, 0, 0.733);
+    border: transparent;
+    transform: scale(1.03);
+}
+
+form input[type=submit] {
+    background: rgba(95, 81, 177, 0.699);
+    font-weight: 200;
+    font-size: 1.0em;
+    padding: 0px;
+    outline: thick;
+}
+
+form input[type=submit]:hover {
+    border-radius: 30px;
+    background: rgb(119, 0, 255);
+    outline: none;
+}
+
+form input[type=reset] {
+    background: rgba(95, 81, 177, 0.699);
+    font-weight: 200;
+    font-size: 1.0em;
+    padding: 0px;
+    outline: thick;
+}
+
+form input[type=reset]:hover {
+    border-radius: 30px;
+    background: rgb(119, 0, 255);
+    outline: none;
+}
